@@ -4,7 +4,7 @@ title:      TensorFlow GPU 训练环境搭建
 subtitle:   Linux环境为Ubuntu 16.04
 date:       2021-06-10
 author:
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - AI
